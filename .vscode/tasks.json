@@ -4,7 +4,7 @@
         {
             "label": "build",
             "type": "shell",
-            "command": "g++ -g picnic.cpp -o picnic",
+            "command": "g++ -g boardcover.cpp -o boardcover",
             "group": {
                 "kind": "build",
                 "isDefault": true

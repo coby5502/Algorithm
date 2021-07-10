@@ -8,7 +8,7 @@
             "name": "(lldb) 시작",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/picnic", // 변경
+            "program": "${workspaceFolder}/boardcover", // 변경
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
