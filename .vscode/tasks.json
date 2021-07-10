@@ -4,7 +4,7 @@
         {
             "label": "build",
             "type": "shell",
-            "command": "g++ -g hello.cpp -o hello",
+            "command": "g++ -g picnic.cpp -o picnic",
             "group": {
                 "kind": "build",
                 "isDefault": true
